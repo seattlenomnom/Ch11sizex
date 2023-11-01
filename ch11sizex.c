@@ -31,7 +31,11 @@
 
 int main(int argc, char *argv[]){
 
+   unsigned short op1, op2;
 
+  op1 = op2 = 0;
+
+ printf("size of unsigned short is %d bytes\n", sizeof(op1));
 
 
 
