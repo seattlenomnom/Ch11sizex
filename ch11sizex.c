@@ -1,4 +1,4 @@
-/* Sourcefile for ch11size11.c
+/* Sourcefile for ch11sizex
  *
  * Determinte the sizes, in bytes, of unsigned char, unsigned short,
  * unsigned int.
